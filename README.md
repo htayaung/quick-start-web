@@ -1,3 +1,3 @@
 # quick-start-web
 
-Web Essentials
+Web Essentials for beginners.
